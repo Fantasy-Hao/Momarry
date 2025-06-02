@@ -1,0 +1,6 @@
+Flask==2.3.3
+jieba==0.42.1
+torch==1.13.1
+transformers==4.21.3
+gensim==4.3.2
+numpy==1.24.3
